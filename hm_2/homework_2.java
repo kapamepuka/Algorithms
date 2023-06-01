@@ -1,8 +1,9 @@
+package hm_2;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.logging.Logger;
 
-public class homework {
+public class homework_2 {
     // Кол-во элементов
     private static final int COUNT_ELEMENTS = 15;
     // Максимальное значение
